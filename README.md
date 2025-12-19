@@ -75,7 +75,7 @@ id;name;email
 ---
 
 ## 🖥️ Console Menu 
-
+``
 ══════════════════════════════════════
 LEARNING MANAGEMENT SYSTEM
 ══════════════════════════════════════
@@ -86,6 +86,7 @@ Lessons
 Assignments
 Certificates
 Exit
+``
 
 ---
 
@@ -110,8 +111,8 @@ Main.java
 
 ---
 
-##📂 Project Structure
-
+## 📂 Project Structure
+``
 OnlineEducation/
  └── src/
      ├── Main.java
@@ -125,10 +126,11 @@ OnlineEducation/
      ├── Category.java
      └── enums/
          └── Level.java
+``
 
 ---
          
-##🎯 Project Purpose
+## 🎯 Project Purpose
 This project was developed for educational purposes and demonstrates:
 
 - Clean code structure
@@ -138,11 +140,11 @@ This project was developed for educational purposes and demonstrates:
 
 ---
 
-##📜 License
+## 📜 License
 This project is intended for educational use only and may be freely modified.
 
 ---
 
-##👤 Author
+## 👤 Author
 Gabriela Hristova
 Java Developer – Student Project
