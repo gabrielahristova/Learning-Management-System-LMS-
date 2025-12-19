@@ -75,7 +75,8 @@ id;name;email
 ---
 
 ## 🖥️ Console Menu 
-``
+
+```
 ══════════════════════════════════════
 LEARNING MANAGEMENT SYSTEM
 ══════════════════════════════════════
@@ -86,7 +87,8 @@ Lessons
 Assignments
 Certificates
 Exit
-``
+
+```
 
 ---
 
@@ -111,22 +113,23 @@ Main.java
 
 ---
 
-## 📂 Project Structure
-``
+## 📁 Project Structure
+
+```
 OnlineEducation/
- └── src/
-     ├── Main.java
-     ├── Student.java
-     ├── Instructor.java
-     ├── Course.java
-     ├── Lesson.java
-     ├── Assignment.java
-     ├── Submission.java
-     ├── Certificate.java
-     ├── Category.java
-     └── enums/
-         └── Level.java
-``
+└── src/
+    ├── Main.java
+    ├── Student.java
+    ├── Instructor.java
+    ├── Course.java
+    ├── Lesson.java
+    ├── Assignment.java
+    ├── Submission.java
+    ├── Certificate.java
+    ├── Category.java
+    └── enums/
+        └── Level.java
+```
 
 ---
          
