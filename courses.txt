@@ -1,0 +1,4 @@
+Programming;1;Java Basics;Ivan Petrov;BEGINNER
+Math;4;Algebra I;Dimitar Petrov;ADVANCED
+Programming;2;Python Fundamentals;Maria Georgieva;INTERMEDIATE
+Design;3;Photoshop Essentials;Nikolay Nikolov;ADVANCED
