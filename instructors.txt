@@ -1,0 +1,4 @@
+1;Petar Ivanov;petar.ivanov@university.bg
+2;Elena Dimitrova;elena.d@designstudio.com
+3;Nikolay Todorov;nikolay.t@gmail.com
+4;Maria Koleva;maria.koleva@gmail.com

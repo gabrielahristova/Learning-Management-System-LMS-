@@ -1,0 +1,4 @@
+1;Java Basics;Petar Ivanov;BEGINNER
+2;OOP Java;Elena Dimitrova;INTERMEDIATE
+3;HTML & CSS;Nikolay Todorov;BEGINNER
+4;JavaScript;Maria Koleva;INTERMEDIATE
